@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213641977152",
+    "project_id": "practica9-eliasjorge",
+    "storage_bucket": "practica9-eliasjorge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213641977152:android:f93cb8328064be356e6ea5",
+        "android_client_info": {
+          "package_name": "elias.jorge.practica9_eliasjorge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBbJky6JvZ6ee0xiY5qjlavXBXzomruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
